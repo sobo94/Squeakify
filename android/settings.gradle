@@ -1,0 +1,3 @@
+rootProject.name = 'CRNA_eject_emulator'
+
+include ':app'
