@@ -1,6 +1,0 @@
-- Create Project documents CRNA - Squekify
-- Setup ESLint
-- Upload first Version on GitHub 
-- Upload Document
-
-
